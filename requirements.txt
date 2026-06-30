@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.46.1
 PyPDF2
 langchain
 langchain-community
@@ -7,4 +7,5 @@ langchain-huggingface
 faiss-cpu
 sentence-transformers
 google-generativeai
-python-dotenv
+torch
+torchvision
